@@ -1,0 +1,38 @@
+[02:38:38] [main/INFO]: Setting user: ForgeDevName
+[02:38:40] [Client thread/INFO]: LWJGL Version: 2.9.1
+[02:38:40] [Client thread/ERROR]: Couldn't initialize twitch stream
+[02:38:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Exploding Mobs
+[02:38:46] [Sound Library Loader/INFO]: Sound engine started
+[02:38:47] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[02:38:47] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[02:38:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Exploding Mobs
+[02:38:47] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[02:38:47] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[02:38:48] [Sound Library Loader/INFO]: Sound engine started
+[02:38:57] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[02:38:57] [Server thread/INFO]: Generating keypair
+[02:38:57] [Server thread/INFO]: Preparing start region for level 0
+[02:38:58] [Server thread/INFO]: Changing view distance to 12, from 10
+[02:38:58] [Server thread/INFO]: ForgeDevName[local:E:681916bc] logged in with entity id 564 at (-364.66934929181036, 4.0, 642.8770203737936)
+[02:38:58] [Server thread/INFO]: ForgeDevName joined the game
+[02:38:58] [Client thread/INFO]: [CHAT] Exploding Mobs installed on version 1.7.10-0.1
+[02:38:58] [Client thread/INFO]: [CHAT] Carefull, hostile mobs may explode when killed!
+[02:39:22] [Server thread/INFO]: Saving and pausing game...
+[02:39:22] [Server thread/INFO]: Saving chunks for level 'Testing'/Overworld
+[02:39:22] [Server thread/INFO]: Saving chunks for level 'Testing'/Nether
+[02:39:22] [Server thread/INFO]: Saving chunks for level 'Testing'/The End
+[02:39:35] [Server thread/INFO]: Saving and pausing game...
+[02:39:35] [Server thread/INFO]: Saving chunks for level 'Testing'/Overworld
+[02:39:35] [Server thread/INFO]: Saving chunks for level 'Testing'/Nether
+[02:39:35] [Server thread/INFO]: Saving chunks for level 'Testing'/The End
+[02:39:35] [Server thread/INFO]: Saving and pausing game...
+[02:39:35] [Server thread/INFO]: Saving chunks for level 'Testing'/Overworld
+[02:39:35] [Server thread/INFO]: Saving chunks for level 'Testing'/Nether
+[02:39:35] [Server thread/INFO]: Saving chunks for level 'Testing'/The End
+[02:39:36] [Server thread/INFO]: Stopping server
+[02:39:36] [Server thread/INFO]: Saving players
+[02:39:36] [Server thread/INFO]: Saving worlds
+[02:39:36] [Server thread/INFO]: Saving chunks for level 'Testing'/Overworld
+[02:39:36] [Server thread/INFO]: Saving chunks for level 'Testing'/Nether
+[02:39:36] [Server thread/INFO]: Saving chunks for level 'Testing'/The End
+[02:39:43] [Client thread/INFO]: Stopping!
